@@ -24,7 +24,7 @@ class HomeScreen extends StatelessWidget {
             SvgPicture.asset("assets/icons/Location.svg"),
             const SizedBox(width: defaultPadding / 2),
             Text(
-              "15/2 New Texas",
+              "Red E-commerce",
               style: Theme.of(context).textTheme.bodyText1,
             ),
           ],
